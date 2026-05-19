@@ -1,0 +1,12 @@
+{
+  "name": "mock-genesys-open-messaging",
+  "version": "1.0.0",
+  "description": "Mock server that implements the Genesys Open Messaging inbound endpoint and logs requests.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
